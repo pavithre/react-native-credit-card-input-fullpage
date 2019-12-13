@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/lexor90/react-native-credit-card-input#readme",
   "dependencies": {
-    "card-validator": "^2.2.0",
+    "card-validator": "^4.3.0",
     "lodash": "^4.17.15",
     "react-native-flip-card": "^3.5.5"
   },
