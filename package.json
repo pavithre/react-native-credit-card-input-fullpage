@@ -35,7 +35,7 @@
   "dependencies": {
     "card-validator": "^4.3.0",
     "lodash": "^4.17.15",
-    "react-native-flip-card": "github:floriansegginger/react-native-flip-card#patch-1"
+    "react-native-flip-card": "github:Trashpants/react-native-flip-card"
   },
   "devDependencies": {
     "babel-eslint": "^5.0.0",
