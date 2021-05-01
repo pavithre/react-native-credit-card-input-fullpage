@@ -30,7 +30,7 @@ Code:
 * Add Android form design
 
 # Usage
-This section is invalid
+Invalid installation instructions
 ```bash
 npm i --save react-native-credit-card-input-fullpage
 ```
